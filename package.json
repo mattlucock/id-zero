@@ -1,0 +1,35 @@
+{
+	"name": "id-zero",
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"test": "node test.mjs"
+	},
+	"exports": {
+		"types": "./src/id.d.ts",
+		"import": "./src/id.js"
+	},
+	"files": ["src"],
+	"description": "Basically the simplest, tiniest ID generator imaginable",
+	"keywords": [
+		"id",
+		"random",
+		"generate",
+		"alphanumeric",
+		"tiny",
+		"small",
+		"simple",
+		"light",
+		"micro",
+		"nano",
+		"pico"
+	],
+	"license": "Unlicense",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mattlucock/id-zero.git"
+	},
+	"bugs": {
+		"url": "https://github.com/mattlucock/id-zero/issues"
+	}
+}
