@@ -1,6 +1,6 @@
 {
 	"name": "id-zero",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"type": "module",
 	"scripts": {
 		"test": "node test.js"
@@ -9,7 +9,9 @@
 		"types": "./src/id.d.ts",
 		"import": "./src/id.js"
 	},
-	"files": ["src"],
+	"files": [
+		"src"
+	],
 	"description": "Basically the simplest, tiniest ID generator imaginable",
 	"keywords": [
 		"id",
