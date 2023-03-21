@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/id-zero?style=flat-square)](https://npm.im/id-zero)
 [![License](https://img.shields.io/github/license/mattlucock/id-zero?style=flat-square)](https://github.com/mattlucock/id-zero/blob/main/LICENSE.md)
-[![Test status](https://img.shields.io/github/actions/workflow/status/mattlucock/id-zero/test.yaml?style=flat-square)](https://github.com/mattlucock/id-zero/actions/workflows/test.yaml)
+[![Build status](https://img.shields.io/github/actions/workflow/status/mattlucock/id-zero/test.yaml?style=flat-square)](https://github.com/mattlucock/id-zero/actions/workflows/test.yaml)
 
 Basically the simplest, tiniest ID generator imaginable. It produces pseudorandom lowercase alphanumeric strings of any length in just ~75 bytes of code (minified and Brotli compressed).
 

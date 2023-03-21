@@ -1,2 +1,2 @@
-declare const id: (length: number) => string
-export default id
+declare const idZero: (length: number) => string
+export default idZero
