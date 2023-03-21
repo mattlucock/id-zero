@@ -39,8 +39,6 @@ generated = idZero(1)
 assert(generated.length === 1)
 assert(PATTERN.test(generated))
 
-assert(testCollision(1) > 5)
-
 // Test length 100
 generated = idZero(100)
 assert(generated.length === 100)

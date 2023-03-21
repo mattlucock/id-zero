@@ -3,7 +3,7 @@
 	"version": "0.0.0",
 	"type": "module",
 	"scripts": {
-		"test": "node test.mjs"
+		"test": "node test.js"
 	},
 	"exports": {
 		"types": "./src/id.d.ts",
